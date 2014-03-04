@@ -7,6 +7,10 @@ of objects, with simple sorting and filters option.
 
 jQuery >= 1.6
 
+# Demo
+
+[Parsley documentation](http://parsleyjs.org/doc/help.html)
+
 # Installation
 
 ```html
